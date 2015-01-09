@@ -25,6 +25,7 @@ nohup.out
 *.eml
 *.tgz
 *.zip
+*.jar
 
 !yahoo/bin
 rest-webservices
